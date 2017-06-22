@@ -1,0 +1,61 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: skyblue;
+  padding-left: 10px;
+
+}
+
+P {
+  color: white;
+}
+
+
+hr {
+  color: white;
+  width: 600px;
+}
+
+img.hi {
+  border-radius: 30px;
+}
+
+img.kev {
+  border-radius: 950px;
+}
+
+img.type {
+  float: left;
+  padding-left: 50px;
+}
+
+p.type {
+  position: relative;
+  top: 305px;
+  right: 820px;
+  display: inline-block;
+}
+
+p.volley {
+  position: relative;
+  top: 260px;
+  right: 220px;
+  display: inline-block;
+}
+
+.container {
+  width: 900px;
+  height: 500px;
+  border: 1px solid white;
+  background-color: gray;
+  margin: auto;
+  padding-top: 65px;
+}
+
+p.home {
+  color: black;
+}
